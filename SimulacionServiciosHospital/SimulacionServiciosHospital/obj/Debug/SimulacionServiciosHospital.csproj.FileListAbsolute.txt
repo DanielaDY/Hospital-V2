@@ -1,0 +1,15 @@
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\bin\Debug\SimulacionServiciosHospital.exe.config
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\bin\Debug\SimulacionServiciosHospital.exe
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\bin\Debug\SimulacionServiciosHospital.pdb
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.csprojAssemblyReference.cache
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.Properties.Resources.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.csproj.GenerateResource.cache
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.exe
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.pdb
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.Distancia.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.Promedios.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.Hospital.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.AyudaPromedio.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.AyudaDistancia.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.AyudaHospital.resources
+C:\Users\Daniela\source\repos\SimulacionServiciosHospital\SimulacionServiciosHospital\obj\Debug\SimulacionServiciosHospital.Informacion.resources
